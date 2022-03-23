@@ -1,0 +1,42 @@
+#container{
+    display: flex;
+    text-align: center;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: skyblue;
+    margin-top: 20px;
+}
+#search{
+    display: flex
+
+}
+ input{
+    margin-left: 20%; 
+    margin-top: 10%;
+    height: 30px;
+    width: 200px;
+    font-size: 16px; 
+    padding-left: 15px;
+}
+button{
+    height: 35px;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 10.1%;
+    height: 30px;
+    width: 200px;
+    font-size: 16px;
+}
+#info{
+    margin-left: 20%;
+    background-color: skyblue;
+    width: 310px;
+    background-image: url(https://images.pexels.com/photos/912364/pexels-photo-912364.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+#map{
+    margin-left: 200px;
+}
+iframe{
+    height: 350px;
+    width: 400px;
+}
